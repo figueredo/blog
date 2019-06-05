@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://figueredo.co/"
 # include content marked as draft
 buildDrafts = false
 # include content with publishdate in the future
@@ -13,7 +13,7 @@ editor = "nano"
 languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
-title = "John Doe · Landing Page"
+title = "Thiago Cardoso"
 
 [blackfriday]
   extensions = ["hardLineBreak"]
@@ -23,16 +23,16 @@ title = "John Doe · Landing Page"
   posts = "posts/:slug/"
 
 [params]
-  author = "John Doe"
-  email = "john.doe@example.com"
-  description = "Landing Page"
-  bio = "First Row. \nSecond Row."
+  author = "Thiago Cardoso"
+  email = ""
+  description = "Thiago's contact information."
+  bio = "Software Engineer"
   avatar = "img/avatar.jpg"
   favicon = "img/favicon.ico"
   error404 = "There is no such page."
 
   [params.contact]
-    github = "https://github.com/jdoe"
-    instagram = "https://instagram.com/jdoe"
-    twitter = "https://twitter.com/jdoe"
-    ello = ""
+    github = "https://github.com/figueredo"
+    twitter = "https://twitter.com/figueredo_"
+    linkedin = "https://linkedin.com/in/figueredo"
+    medium = "https://medium.com/@figueredo_"
