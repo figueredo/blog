@@ -1,7 +1,7 @@
-[submodule "themes/vncnt-hugo"]
-	path = themes/vncnt-hugo
-	url = https://github.com/fncnt/vncnt-hugo
 [submodule "public"]
 	path = public
 	url = git@github.com:figueredo/figueredo.github.io
 	branch = master
+[submodule "themes/soho"]
+	path = themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git

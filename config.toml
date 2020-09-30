@@ -1,4 +1,13 @@
+theme = "soho"
+
 baseURL = "https://figueredo.co/"
+title = "Thiago Cardoso"
+languageCode = "en"
+language = "en"
+enableInlineShortcodes = true
+
+summaryLength = 10
+enableEmoji = true
 # include content marked as draft
 buildDrafts = false
 # include content with publishdate in the future
@@ -7,32 +16,53 @@ buildFuture = false
 buildExpired = false
 # enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
 relativeURLs = true
-disableRSS = true
 enableRobotsTXT = true
-editor = "nano"
-languageCode = "en"
-language = "en"
-theme = "vncnt-hugo"
-title = "Thiago Cardoso"
-
-[blackfriday]
-  extensions = ["hardLineBreak"]
-
-[permalinks]
-  fixed = ":title/"
-  posts = "posts/:slug/"
 
 [params]
   author = "Thiago Cardoso"
-  email = ""
-  description = "Thiago's contact information."
-  bio = "Software Engineer"
-  avatar = "img/avatar.jpg"
-  favicon = "img/favicon.ico"
+  profilePicture = "img/avatar.jpg"
+
+  copyright = "Thiago Cardoso"
+  license = "CC BY-SA 4.0"
+  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+
+  themeColor = "#1f1f1f"
   error404 = "There is no such page."
 
-  [params.contact]
-    github = "https://github.com/figueredo"
-    twitter = "https://twitter.com/figueredo_"
-    linkedin = "https://linkedin.com/in/figueredo"
-    medium = "https://medium.com/@figueredo_"
+  [[params.socialIcons]]
+    icon = "fa-github"
+    title = "GitHub"
+    url = "https://github.com/figueredo"
+
+  [[params.socialIcons]]
+    icon = "fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/figueredo_"
+
+  [[params.socialIcons]]
+    icon = "fa-linkedin"
+    title = "LinkedIn"
+    url = "https://linkedin.com/in/figueredo"
+
+  [[params.socialIcons]]
+    icon = "fa-medium"
+    title = "Medium"
+    url = "https://medium.com/@figueredo_"
+
+  [[params.socialIcons]]
+    icon = "fa-dev"
+    title = "DEV"
+    url = "https://dev.to/figueredo"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
