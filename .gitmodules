@@ -2,6 +2,6 @@
 	path = public
 	url = git@github.com:figueredo/figueredo.github.io
 	branch = master
-[submodule "themes/soho"]
-	path = themes/soho
-	url = https://github.com/alexandrevicenzi/soho.git
+[submodule "themes/concise"]
+	path = themes/concise
+	url = https://github.com/figueredo/concise.git

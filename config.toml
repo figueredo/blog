@@ -1,12 +1,12 @@
-theme = "soho"
+theme = "concise"
 
 baseURL = "https://figueredo.co/"
-title = "Thiago Cardoso"
+title = "figueredo"
+
 languageCode = "en"
 language = "en"
 enableInlineShortcodes = true
 
-summaryLength = 10
 enableEmoji = true
 # include content marked as draft
 buildDrafts = false
@@ -26,33 +26,28 @@ enableRobotsTXT = true
   license = "CC BY-SA 4.0"
   licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
-  themeColor = "#1f1f1f"
-  error404 = "There is no such page."
+  error404Message = "oops! page not found."
+  error404Picture = "img/404.jpg"
 
-  [[params.socialIcons]]
-    icon = "fa-github"
-    title = "GitHub"
-    url = "https://github.com/figueredo"
-
-  [[params.socialIcons]]
-    icon = "fa-twitter"
+  [[params.links]]
     title = "Twitter"
     url = "https://twitter.com/figueredo_"
 
-  [[params.socialIcons]]
-    icon = "fa-linkedin"
+  [[params.links]]
+    title = "GitHub"
+    url = "https://github.com/figueredo"
+
+  [[params.links]]
     title = "LinkedIn"
     url = "https://linkedin.com/in/figueredo"
 
-  [[params.socialIcons]]
-    icon = "fa-medium"
-    title = "Medium"
-    url = "https://medium.com/@figueredo_"
-
-  [[params.socialIcons]]
-    icon = "fa-dev"
+  [[params.links]]
     title = "DEV"
     url = "https://dev.to/figueredo"
+
+  [[params.links]]
+    title = "Medium"
+    url = "https://medium.com/@figueredo_"
 
 [markup]
 
