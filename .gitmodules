@@ -4,4 +4,5 @@
 	branch = master
 [submodule "themes/concise"]
 	path = themes/concise
-	url = https://github.com/figueredo/concise.git
+	url = git@github.com:figueredo/concise
+	branch = main
