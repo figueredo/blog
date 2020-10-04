@@ -1,33 +1,22 @@
 theme = "concise"
 
-baseURL = "https://figueredo.co/"
 title = "figueredo"
 
 languageCode = "en"
 language = "en"
-enableInlineShortcodes = true
 
+enableInlineShortcodes = true
 enableEmoji = true
-# include content marked as draft
 buildDrafts = false
-# include content with publishdate in the future
 buildFuture = false
-# include content already expired
 buildExpired = false
-# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
-relativeURLs = true
 enableRobotsTXT = true
 
 [params]
   author = "Thiago Cardoso"
-  profilePicture = "img/avatar.jpg"
-
-  copyright = "Thiago Cardoso"
-  license = "CC BY-SA 4.0"
-  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
   error404Message = "oops! page not found."
-  error404Picture = "img/404.jpg"
+  error404Picture = "/img/404.jpg"
 
   [[params.links]]
     title = "Twitter"
