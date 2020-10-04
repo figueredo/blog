@@ -21,6 +21,9 @@ aliases:
 
 ---
 
+> Este artigo foi originalmente publicado no [Medium](https://medium.com/cesar-update/o-inicio-de-uma-comunidade-e4214f82e0c2)
+
+
 ![#PraCegoVer parte de pintura feita por Georgenes Claudino na parede de um dos auditórios do CESAR com os dizeres &"identificar, potencializar, concretizar"](/posts/o-inicio-de-uma-comunidade/images/1.jpeg#layoutFillWidth "#PraCegoVer parte de pintura feita por [Georgenes Claudino](https://medium.com/u/e6cb81c50aa5) na parede de um dos auditórios do CESAR com os dizeres \"identificar, potencializar, concretizar\"")
 
 _Este texto foi escrito em conjunto com_ [_Rodrigo Perazzo_](https://medium.com/u/167d7b5cc28a)_, revisado por_ [_Ricardo Cardoso de Almeida_](https://medium.com/u/aa916546bef8) _e é um resultado da colaboração de muitos outros que estiveram compartilhando e aprendendo junto conosco._
