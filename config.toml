@@ -1,6 +1,7 @@
 theme = "concise"
 
 title = "figueredo"
+baseURL = "https://figueredo.co"
 
 languageCode = "en"
 language = "en"
