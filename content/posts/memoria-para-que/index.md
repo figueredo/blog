@@ -15,15 +15,16 @@ tags:
  - Chile
  - Brasil
 
-image: "/posts/memoria-para-que/images/3.png" 
+image: "/posts/memoria-para-que/images/3.png"
 images:
  - "/posts/memoria-para-que/images/1.jpeg"
  - "/posts/memoria-para-que/images/2.jpeg"
  - "/posts/memoria-para-que/images/3.png"
 
-
 aliases:
     - "/memoria-para-que"
+
+canonicalURL: "https://medium.com/@figueredo_/memória-a-que-nos-serve-c7a483298803"
 
 ---
 

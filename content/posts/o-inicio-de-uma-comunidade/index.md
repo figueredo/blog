@@ -19,6 +19,8 @@ images:
 aliases:
     - "/o-inicio-de-uma-comunidade"
 
+canonicalURL: "https://medium.com/cesar-update/o-inicio-de-uma-comunidade-e4214f82e0c2"
+
 ---
 
 > Este artigo foi originalmente publicado no [Medium](https://medium.com/cesar-update/o-inicio-de-uma-comunidade-e4214f82e0c2)
