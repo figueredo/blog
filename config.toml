@@ -19,6 +19,8 @@ enableRobotsTXT = true
   error404Message = "oops! page not found."
   error404Picture = "/img/404.jpg"
 
+  commentsTwitter = "figueredo_"
+
   [[params.links]]
     title = "Twitter"
     url = "https://twitter.com/figueredo_"
