@@ -17,6 +17,7 @@ googleAnalytics = "UA-179711502-1"
 
 [params]
   author = "Thiago Cardoso"
+  description = "Personal blog by Thiago Cardoso"
 
   error404Message = "oops! page not found."
   error404Picture = "/img/404.jpg"
