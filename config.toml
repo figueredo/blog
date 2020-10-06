@@ -13,6 +13,8 @@ buildFuture = false
 buildExpired = false
 enableRobotsTXT = true
 
+googleAnalytics = "UA-179711502-1"
+
 [params]
   author = "Thiago Cardoso"
 
