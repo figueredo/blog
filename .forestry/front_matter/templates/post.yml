@@ -32,3 +32,5 @@ fields:
 - type: text
   name: canonicalURL
   label: canonicalURL
+pages:
+- content/posts/select-map-go-pg/how-to-select-into-a-map-using-go-pg.md
