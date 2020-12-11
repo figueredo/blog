@@ -13,8 +13,6 @@ buildFuture = false
 buildExpired = false
 enableRobotsTXT = true
 
-googleAnalytics = "UA-179711502-1"
-
 [params]
   author = "Thiago Cardoso"
   description = "Personal blog by Thiago Cardoso"
@@ -23,6 +21,8 @@ googleAnalytics = "UA-179711502-1"
   error404Picture = "/img/404.jpg"
 
   commentsTwitter = "figueredo_"
+
+  cloudflareWebAnalytics = "3a9a3d7aa6e044f7bcfdbe640a6d2c74"
 
   [[params.links]]
     title = "Twitter"
