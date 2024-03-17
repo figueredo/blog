@@ -26,7 +26,7 @@ aliases:
 canonicalURL: 'https://medium.com/@figueredo/memória-a-que-nos-serve-c7a483298803'
 ---
 
-> Este artigo foi originalmente publicado no [Medium](https://medium.com/@figueredo_/mem%C3%B3ria-a-que-nos-serve-c7a483298803)
+> Este artigo foi originalmente publicado no [Medium](https://medium.com/@figueredo/mem%C3%B3ria-a-que-nos-serve-c7a483298803)
 
 *Você não sabe que dia é hoje, sabe?* me perguntou a recepcionista do albergue, quando lhe pedi sugestão de onde comer. De indicações para uma sexta-feira à noite em Santiago, passei a esperar que o delito que estivesse cometendo fosse dos menores. Como alguém que faz vista grossa, sugeriu um local próximo e me recomendou **voltar correndo** se avistasse qualquer agrupamento maior de pessoas. Era 11 de setembro, [o dia em que as ruas do Chile ficam vazias](http://g1.globo.com/mundo/noticia/2013/09/11-de-setembro-o-dia-em-que-as-ruas-do-chile-ficam-vazias.html).
 
