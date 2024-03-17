@@ -1,3 +1,7 @@
+---
+_template: post
+---
+
 +++
 aliases = []
 author = "Thiago Cardoso"
