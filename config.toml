@@ -42,7 +42,7 @@ enableRobotsTXT = true
 
   [[params.links]]
     title = "Medium"
-    url = "https://medium.com/@figueredo_"
+    url = "https://medium.com/@figueredo"
 
 [markup]
 
